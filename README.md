@@ -1,1 +1,2 @@
-# Basics_R
+### Basics_R
+Práctica básica con R: Statistical Computing
